@@ -1,0 +1,64 @@
+"type","name","last_updated_at","context_type","default_categories","recommended_severity","default_severity","enabled"
+aws-storage-bucket-exposed,AWS Storage Bucket Exposed,2022-02-15 14:28:38.576 -0300,bucket,"'{{""Exposure"",""Information Leakage"",""Cloud Storage Exposure""}}'",high,critical,true
+bacnet-service-exposed,BACNET Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""ICS/SCADA Exposure""}}'",high,high,true
+domain-expiring-in-7-days,Domain Expiring in 7 Days,2022-02-15 14:28:38.576 -0300,domain,"'{{""Misconfiguration"",""Name Infrastructure"",""Domain Registration Misconfiguration""}}'",high,high,true
+eol-apache-traffic-server-software,EOL Apache Traffic Server Software,2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",high,high,true
+eol-microsoft-iis-software,EOL Microsoft IIS Software,2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",high,high,true
+eol-apache-httpd-software,EOL Apache HTTPD Software,2022-02-15 14:39:49.309 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",low,high,true
+dnp3-service-exposed,DNP3 Service Exposed,2022-02-15 15:14:17.256 -0300,host,"'{{""Exposure"",""Device Exposure"",""ICS/SCADA Exposure""}}'",high,high,true
+eol-eclipse-jetty-software,EOL Eclipse Jetty Software,2022-02-16 15:31:57.755 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",medium,high,true
+elasticsearch-service-exposed,ELASTICSEARCH Service Exposed,2022-02-15 15:28:37.648 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+expired-domain,Expired Domain,2022-02-15 14:28:38.576 -0300,domain,"'{{""Misconfiguration"",""Name Infrastructure"",""Domain Registration Misconfiguration""}}'",high,high,true
+gcp-storage-bucket-exposed,GCP Storage Bucket Exposed,2022-02-15 14:28:38.576 -0300,bucket,"'{{""Exposure"",""Information Leakage"",""Cloud Storage Exposure""}}'",high,high,true
+kubernetes-service-exposed,KUBERNETES Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""}}'",high,high,true
+memcached-service-exposed,MEMCACHED Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+modbus-service-exposed,MODBUS Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""ICS/SCADA Exposure""}}'",high,high,true
+mqtt-service-exposed,MQTT Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""IoT Protocol Exposure""}}'",high,high,true
+host-not-present-in-vm-solution,Host Not Present in VM Solution,2022-02-15 15:28:58.562 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Unmanaged Host""}}'",medium,medium,false
+mongodb-service-exposed,MongoDb Service Exposed,2022-02-16 18:05:35.232 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+mssql-service-exposed,MSSQL Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+oracle-service-exposed,ORACLE Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+outdated-exchange-cumulative-update,Outdated Exchange Cumulative Update,2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",high,high,true
+pc-anywhere-service-exposed,PC_ANYWHERE Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",high,high,true
+pop3s-service-exposed,POP3S Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Service or Interface Exposure""}}'",low,low,true
+prometheus-service-exposed,PROMETHEUS Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""}}'",medium,medium,true
+qnap-device-compromised,QNAP Device Compromised by Deadbolt Ransomware,2022-02-15 14:28:38.576 -0300,host,"'{{""Compromise"",""Evidence of Compromise"",""Scan Derived""}}'",critical,critical,true
+qnap-device-exposed,QNAP Device Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""Storage Device Exposure""}}'",high,high,true
+recursive-dns-service-exposed,Recursive DNS Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""DDoS Amplification Exposure""}}'",low,low,true
+redis-service-exposed,REDIS Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,medium,true
+s7-service-exposed,S7 Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""ICS/SCADA Exposure""}}'",high,high,true
+snmp-service-exposed,SNMP Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""},{""Exposure"",""Service or Interface Exposure"",""DDoS Amplification Exposure""}}'",high,high,true
+telnet-service-exposed,TELNET Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Deprecated and Plaintext Protocol Exposure""},{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",high,high,true
+unencrypted-imap-service,Unencrypted IMAP Service,2022-02-15 14:28:38.576 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Unencrypted""}}'",low,low,true
+vulnerable-centos-webpanel-cve-2021-45467,Vulnerable CentOS WebPanel [CVE-2021-45467],2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",high,high,true
+vulnerable-confluence-server-cve-2021-26084,Vulnerable Confluence Server [CVE-2021-26084],2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",high,high,true
+vulnerable-log4j-apache-solr-service-cve-2021-44228,Vulnerable Log4j Apache Solr Service [CVE-2021-44228],2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",high,high,true
+vulnerable-log4j-metabase-cve-2021-44228,Vulnerable Log4j PagerDuty Rundeck [CVE-2021-44228],2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",high,high,true
+vulnerable-log4j-neo4j-cve-2021-44228,Vulnerable Log4j Neo4j [CVE-2021-44228],2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",high,high,true
+domain-expiring-in-30-days,Domain Expiring in 30 Days,2022-02-15 14:36:03.540 -0300,domain,"'{{""Misconfiguration"",""Name Infrastructure"",""Domain Registration Misconfiguration""}}'",medium,medium,true
+ssh-service-exposed,SSH Service Exposed,2022-02-15 14:39:46.345 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",medium,low,true
+login-page-missing-csp,Login Page Missing CSP,2022-02-15 14:39:49.309 -0300,host,"'{{""Vulnerability"",""Web App Security Vulnerability"",""XSS""}}'",low,low,true
+eol-nginx-software,EOL Nginx Software,2022-02-15 14:39:49.309 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",low,high,true
+mysql-service-exposed,MySQL Service Exposed,2022-02-15 14:39:49.309 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+vulnerable-log4j-generic-cve-2021-44228,Vulnerable Log4j Generic [CVE-2021-44228],2022-02-15 14:39:49.309 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",critical,high,true
+postgres-service-exposed,POSTGRES Service Exposed,2022-02-15 14:39:49.309 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
+unencrypted-login-page,Unencrypted Login Page,2022-02-15 15:45:19.789 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Unencrypted""}}'",high,critical,true
+weak-tls-cipher,Weak TLS Cipher,2022-02-15 14:39:49.309 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""TLS Cryptographic Weakness""}}'",low,medium,true
+ftp-service-exposed,FTP Service Exposed,2022-02-15 14:39:49.309 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""File Transfer Protocol Exposure""}}'",high,high,true
+unencrypted-weak-auth-page,Unencrypted Weak Auth Page,2022-02-15 14:39:51.012 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Unencrypted""}}'",high,high,true
+outdated-tls-version,Outdated TLS Version,2022-02-15 14:39:53.154 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""TLS Cryptographic Weakness""}}'",low,medium,true
+ntp-service-exposed,NTP Service Exposed,2022-02-15 14:39:56.558 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""DDoS Amplification Exposure""}}'",low,low,true
+eol-php-software,EOL PHP Software,2022-02-15 14:39:57.899 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",medium,medium,true
+ipp-service-exposed,IPP Service Exposed,2022-02-15 14:39:57.899 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""}}'",low,high,true
+weak-auth-page,Weak Auth Page,2022-02-15 14:40:13.220 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Weak Authentication""}}'",medium,medium,true
+smtp-service-exposed,SMTP Service Exposed,2022-02-15 14:40:20.483 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Other Exposure""},{""Exposure"",""Service or Interface Exposure"",""DDoS Amplification Exposure""}}'",low,low,true
+rdp-service-exposed,RDP Service Exposed,2022-02-15 14:40:26.168 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",high,medium,true
+eol-openssl-software,EOL OpenSSL Software,2022-02-15 14:40:31.126 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",medium,high,true
+amqp-service-exposed,AMQP Service Exposed,2022-02-15 14:40:37.052 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""}}'",low,high,true
+vnc-service-exposed,VNC Service Exposed,2022-02-15 14:41:01.691 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",high,high,true
+vulnerable-log4j-unifi-network-appliance-cve-2021-44228,Vulnerable Log4j UniFi Network Appliance [CVE-2021-44228],2022-02-15 14:41:01.980 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""CVE""},{""Vulnerability"",""Software Vulnerability"",""Remote Code Execution Vulnerability""}}'",critical,high,true
+fox-service-exposed,FOX Service Exposed,2022-02-15 14:41:01.980 -0300,host,"'{{""Exposure"",""Device Exposure"",""ICS/SCADA Exposure""}}'",high,high,true
+unencrypted-cwmp-service,Unencrypted CWMP Service,2022-02-15 14:41:08.706 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Unencrypted""}}'",medium,low,true
+ipmi-service-exposed,IPMI Service Exposed,2022-02-15 14:41:39.385 -0300,host,"'{{""Exposure"",""Device Exposure"",""Lights Out Server Management Exposure""}}'",high,high,true
+unencrypted-pop3-service,Unencrypted POP3 Service,2022-02-15 14:43:08.078 -0300,host,"'{{""Misconfiguration"",""Service Misconfiguration"",""Mail Misconfiguration""}}'",medium,low,true
+smb-service-exposed,SMB Service Exposed,2022-02-15 14:48:52.475 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""},{""Exposure"",""Service or Interface Exposure"",""File System Exposure""}}'",high,high,true
