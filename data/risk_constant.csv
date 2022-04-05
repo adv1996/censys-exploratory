@@ -20,7 +20,7 @@ mssql-service-exposed,MSSQL Service Exposed,2022-02-15 14:28:38.576 -0300,host,"
 oracle-service-exposed,ORACLE Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Database Engine Exposure""}}'",high,high,true
 outdated-exchange-cumulative-update,Outdated Exchange Cumulative Update,2022-02-15 14:28:38.576 -0300,host,"'{{""Vulnerability"",""Software Vulnerability"",""EOL Software Vulnerability""}}'",high,high,true
 pc-anywhere-service-exposed,PC_ANYWHERE Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",high,high,true
-pop3s-service-exposed,POP3S Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Service or Interface Exposure""}}'",low,low,true
+pop3s-service-exposed,POP3S Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Remote Access Service Exposure""}}'",low,low,true
 prometheus-service-exposed,PROMETHEUS Service Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Service or Interface Exposure"",""Internal Network Protocol Exposure""}}'",medium,medium,true
 qnap-device-compromised,QNAP Device Compromised by Deadbolt Ransomware,2022-02-15 14:28:38.576 -0300,host,"'{{""Compromise"",""Evidence of Compromise"",""Scan Derived""}}'",critical,critical,true
 qnap-device-exposed,QNAP Device Exposed,2022-02-15 14:28:38.576 -0300,host,"'{{""Exposure"",""Device Exposure"",""Storage Device Exposure""}}'",high,high,true
